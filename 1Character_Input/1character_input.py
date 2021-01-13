@@ -3,11 +3,11 @@
 
 # Extras:
 
-#     Add on to the previous program by asking the user for another number 
-#     and printing out that many copies of the previous message. (Hint: order of operations exists in Python)
+#	Add on to the previous program by asking the user for another number
+#	and printing out that many copies of the previous message. (Hint: order of operations exists in Python)
 
-#     Print out that many copies of the previous message on separate 
-#     lines. (Hint: the string "\n is the same as pressing the ENTER button)
+#	Print out that many copies of the previous message on separate 
+#	lines. (Hint: the string "\n is the same as pressing the ENTER button)
 
 name = input("Please Input Your Name:\n")
 age = int(input("Please Input Your Age:\n"))
