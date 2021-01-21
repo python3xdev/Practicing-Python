@@ -11,7 +11,7 @@ else:
 	print(f"{user_str} is not a palindrome.")
 
 '''
-Time taken: 1 minutes
+Time taken: 2 minutes
 Result:
 Test1:
 	String Please:
